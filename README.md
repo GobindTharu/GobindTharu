@@ -15,6 +15,8 @@ Here’s a little about me:
 -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=GobindTharu&label=Profile%20views&color=blue&style=flat-square)  
+![Fake Views](https://img.shields.io/badge/Views-1M-blue)
+
 
 
 *"I'm passionate about solving real-world problems with code and always learning something new."*
