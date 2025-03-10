@@ -37,13 +37,12 @@ Here’s a little about me:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://your-portfolio.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/tharu_gobind/)  
 
-## 🚀 Languages & Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=for-the-badge&logo=tailwind-css)  
+## 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/balgobind-chaudhary-0271ba2a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-profile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100038729557852" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="your-profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tharu_gobind/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-profile" height="30" width="40" /></a>
+</p>
 
 ## 💻 Tech Stack:
 <p align="left">
