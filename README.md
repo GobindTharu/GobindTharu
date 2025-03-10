@@ -14,7 +14,8 @@ Here’s a little about me:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=GobindTharu&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=GobindTharu&label=Profile%20views&color=blue&style=flat-square)  
+
 
 *"I'm passionate about solving real-world problems with code and always learning something new."*
 
