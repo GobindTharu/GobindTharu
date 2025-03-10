@@ -41,10 +41,19 @@ Here’s a little about me:
 </p>
 
 
+
 ## 🌍 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-t
+<p align="left">
+  <a href="https://facebook.com/your-profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/your-profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
+
+
+
 
 ## 💻 Tech Stack:
 <p align="left">
