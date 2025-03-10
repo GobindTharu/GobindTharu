@@ -44,16 +44,3 @@ Here’s a little about me:
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=for-the-badge&logo=tailwind-css)  
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
-## 🔥 Contributions:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
-
-## 📌 Pinned Repositories:
-- [Project 1](https://github.com/GobindTharu/resume-.git)
-- [Project 2](https://github.com/GobindTharu/coffeeweb.git)
-- [Project 3](https://github.com/GobindTharu/E_commerce_Next.js.git)
-**
