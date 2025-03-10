@@ -33,16 +33,18 @@ Here’s a little about me:
 - Tools & Platforms:**GIT, GitHub, VS Code, Netlify, firebase, mongoDb, postman, linux.**
 
 ## 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balgobind-chaudhary-0271ba2a5/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://your-portfolio.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/tharu_gobind/)  
 
-## 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/balgobind-chaudhary-0271ba2a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100038729557852" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="your-profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tharu_gobind/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-profile" height="30" width="40" /></a>
 </p>
+
+
+## 🌍 Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+t
 
 ## 💻 Tech Stack:
 <p align="left">
