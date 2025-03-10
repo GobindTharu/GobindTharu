@@ -14,29 +14,28 @@ Here’s a little about me:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=GobindTharu&label=Profile%20views&color=0e75b6&style=flat)
+
 *"I'm passionate about solving real-world problems with code and always learning something new."*
 
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js**  
 - 🌱 Currently learning **Next.js, GraphQL**  
 - 📫 Reach me at: **[your email]**  
 
-
-## 🚀 About Me
-- 🎓 **7th Semerster Student of CSIT**.
 - 
 ## 🛠 Skills & Tools
+- 🎓 **7th Semerster Student of CSIT**.
 - 🚀 Currently working on **MERN Stack Projects**  
-- 🔧 Skilled in:** JavaScript, HTML, CSS, React.js**
-- Frameworks & Libraries:** React, Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
-- Languages:** HTML, CSS, JavaScript, c, c++, php, c#.**
-- 💡 Building projects like:** E-Commerce Sites Portfolio Websites .**
+- 🔧 Skilled in:**JavaScript, HTML, CSS, React.js**
+- Frameworks & Libraries:**React, Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
+- Languages:**HTML, CSS, JavaScript, c, c++, php, c#.**
+- 💡 Building projects like:**E-Commerce Sites Portfolio Websites .**
 - Tools & Platforms:**GIT, GitHub, VS Code, Netlify, firebase, mongoDb, postman, linux.**
 
 ## 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balgobind-chaudhary-0271ba2a5/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web)](https://your-portfolio.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/your-profile)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/tharu_gobind/)  
 
 ## 🚀 Languages & Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)  
@@ -54,7 +53,7 @@ Here’s a little about me:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
 
 ## 📌 Pinned Repositories:
-- [Project 1](https://github.com/your-username/project-1)
-- [Project 2](https://github.com/your-username/project-2)
-- [Project 3](https://github.com/your-username/project-3)
+- [Project 1](https://github.com/GobindTharu/resume-.git)
+- [Project 2](https://github.com/GobindTharu/coffeeweb.git)
+- [Project 3](https://github.com/GobindTharu/E_commerce_Next.js.git)
 **
