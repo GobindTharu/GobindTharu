@@ -37,7 +37,7 @@ Here’s a little about me:
 
 
 ## 🌍 Connect with me:
-<p align="left" gap=50>
+<p align="left" margin="32px">
   <a href="https://www.facebook.com/balgobind422/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
   </a>
