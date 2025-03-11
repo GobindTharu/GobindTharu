@@ -38,13 +38,13 @@ Here’s a little about me:
 
 ## 🌍 Connect with me:
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100038729557852" target="_blank">
+  <a href="https://www.facebook.com/balgobind422/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/tharu_gobind/" target="_blank">
+  <a href="https://www.instagram.com/balgobind422/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/balgobind-chaudhary-0271ba2a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/balgobind422" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
