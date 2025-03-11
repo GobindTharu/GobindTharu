@@ -32,7 +32,7 @@ Here’s a little about me:
 - Frameworks & Libraries:**React,Redux  Node.js, MongoDB, Express.js, Next.js Tailwind CSS. npm, pnpm**
 - Programming Languages:**HTML, CSS, JavaScript, c, c++, php, c#.**
 - 💡 Building projects like:**E-Commerce Sites Portfolio Websites .**
-- Tools & Platforms:**GIT, GitHub, VS Code, Netlify, firebase, mongoDb, postman, linux.**
+- Tools & Platforms:**GIT, GitHub, VS Code, Vercel, Netlify, firebase, mongoDb, postman, linux.**
 
 
 
