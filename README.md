@@ -4,23 +4,19 @@
 
 ### A Passionate MERN Stack Developer  
 Welcome to my GitHub profile! I'm a **[Bsc Csit Student Of Trivuwan University]** with a passion for coding and learning new technologies.
-Here’s a little about me:
-<!--
 
+Here’s a little about me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
--->
 
 ![Profile views](https://komarev.com/ghpvc/?username=GobindTharu&label=Profile%20views&color=blue&style=flat-square)
 
 
-
 *"I'm passionate about solving real-world problems with code and always learning something new."*
 
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js**  
+- 💬 Skills **React, Node.js, MongoDB, Express.js**  
 - 🌱 Currently learning **Next.js,FireBase**  
 - 📫 Reach me at: **[gobind9800@gmail.com]**  
 
@@ -29,10 +25,10 @@ Here’s a little about me:
 - 🎓 **6th Semerster Student of CSIT**.
 - 🚀 Currently working on **MERN Stack Projects**  
 - 🔧 Skilled in:**JavaScript, HTML, CSS, React.js**
-- Frameworks & Libraries:**React,Redux  Node.js, MongoDB, Express.js, Next.js Tailwind CSS. npm, pnpm**
+- Frameworks & Libraries:**React,Redux  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
 - Programming Languages:**HTML, CSS, JavaScript, c, c++, php, c#.**
-- 💡 Building projects like:**E-Commerce Sites Portfolio Websites .**
-- Tools & Platforms:**GIT, GitHub, VS Code, Vercel, Netlify, firebase, mongoDb, postman, linux.**
+- 💡 Building projects like:**E-Commerce Sites Portfolio Websites.**
+- Tools & Platforms:**GIT, GitHub, VS Code, webstrom, Vercel, Netlify, firebase, mongoDb, postman, linux.**
 
 
 
