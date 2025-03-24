@@ -26,7 +26,7 @@ Here’s a little about me:
 - 🚀 Currently working on **MERN Stack Projects**  
 - 🔧 Skilled in:**JavaScript, HTML, CSS, React.js**
 - Frameworks & Libraries:**React,Redux  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
-- Programming Languages:**HTML, CSS, JavaScript, c, c++, php, c#.**
+- Programming Languages:**JavaScript, c, c++, php, c#.**
 - 💡 Building projects like:**E-Commerce Sites Portfolio Websites.**
 - Tools & Platforms:**GIT, GitHub, VS Code, webstrom, Vercel, Netlify, firebase, mongoDb, postman, linux.**
 
