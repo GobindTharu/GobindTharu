@@ -6,8 +6,8 @@
 Welcome to my GitHub profile! I'm a **[Bsc Csit Student Of Trivuwan University]** with a passion for coding and learning new technologies.
 
 Here’s a little about me:
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 
@@ -22,7 +22,7 @@ Here’s a little about me:
 
 - 
 ## 🛠 Skills & Tools
-- 🎓 **6th Semerster Student of CSIT**.
+- 🎓 **7th Semerster Student of CSIT**.
 - 🚀 Currently working on **MERN Stack Projects**  
 - 🔧 Skilled in:**JavaScript, HTML, CSS, React.js**
 - Frameworks & Libraries:**React,Redux  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
