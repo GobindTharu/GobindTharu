@@ -17,7 +17,7 @@ Here’s a little about me:
 *"I'm passionate about solving real-world problems with code and always learning something new."*
 
 - 💬 Skills **React, Node.js, MongoDB, Express.js**  
-- 🌱 Currently learning **Next.js,FireBase**  
+- 🌱 Currently learning **Next.js,TailwindCSS** 
 - 📫 Reach me at: **[gobind9800@gmail.com]**  
 
 - 
@@ -25,10 +25,10 @@ Here’s a little about me:
 - 🎓 **7th Semerster Student of CSIT**.
 - 🚀 Currently working on **MERN Stack Projects**  
 - 🔧 Skilled in:**JavaScript, HTML, CSS, React.js**
-- Frameworks & Libraries:**React,Redux  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
+- Frameworks & Libraries:**React  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
 - Programming Languages:**JavaScript, c, c++, php, c#.**
 - 💡 Building projects like:**E-Commerce Sites Portfolio Websites.**
-- Tools & Platforms:**GIT, GitHub, VS Code, webstrom, Vercel, Netlify, firebase, mongoDb, postman, linux.**
+- Tools & Platforms:**GIT, GitHub, VS Code, webstrom, Vercel, Netlify, mongoDB Campus, postman, linux.**
 
 
 
