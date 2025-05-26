@@ -3,7 +3,7 @@
 
 
 ### A Passionate MERN Stack Developer  
-Welcome to my GitHub profile! I'm a **[Bsc Csit Student Of Trivuwan University]** with a passion for coding and learning new technologies.
+Welcome to my GitHub profile! I'm a **[Bsc Csit Student Of Trivuwan University]** with  passion for coding and learning new technologies.
 
 Here’s a little about me:
 - 🌱 I’m currently learning ....
@@ -16,13 +16,13 @@ Here’s a little about me:
 
 *"I'm passionate about solving real-world problems with code and always learning something new."*
 
-- 💬 Skills **React, Node.js, MongoDB, Express.js**  
-- 🌱 Currently learning **Next.js,TailwindCSS** 
+- 💬 Skills **React, Next.js, Node.js, MongoDB, Express.js**  
+- 🌱 Currently learning **Next.js,TailwindCSS and Express** 
 - 📫 Reach me at: **[gobind9800@gmail.com]**  
 
 - 
 ## 🛠 Skills & Tools
-- 🎓 **7th Semerster Student of CSIT**.
+- 🎓 **7th Semerster Student of Bsc.CSIT**.
 - 🚀 Currently working on **MERN Stack Projects**  
 - 🔧 Skilled in:**JavaScript, HTML, CSS, React.js**
 - Frameworks & Libraries:**React  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
