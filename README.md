@@ -1,8 +1,8 @@
 
-**# Hi 👋, I'm **BalgobindChaudhary**  
+**# Hi 👋, I'm **Bal Gobind Chaudhary**  
 
 
-### A Passionate MERN Stack Developer  
+### A Passionate Full Stack Developer  
 Welcome to my GitHub profile! I'm a **[Bsc Csit Student Of Trivuwan University]** with  passion for coding and learning new technologies.
 
 Here’s a little about me:
@@ -16,20 +16,19 @@ Here’s a little about me:
 
 *"I'm passionate about solving real-world problems with code and always learning something new."*
 
-- 💬 Skills **React, Next.js, Node.js, MongoDB, Express.js**  
-- 🌱 Currently learning **Next.js,TailwindCSS and Express** 
-- 📫 Reach me at: **[gobind9800@gmail.com]**  
+- 💬 Skills
+- **Frontend: React.js, Redux, Next.js, TypeScript, TailwindCSS,axios, React Query,Tanstack Query HTML/CSS, Javascript,** .
+- 🌱**Backend: Node.js,  Express.js, MongoDB, Cloudinary, JWT Auth, MongoDb Atlas** .
+- **Tools & Platforms: Git, GitHub,Gitlab, VS Code, Postman, webstrom, Vercel, netlify MongoDB Compass, Linux, React Dev Tools.**
+
 
 - 
 ## 🛠 Skills & Tools
 - 🎓 **7th Semerster Student of Bsc.CSIT**.
 - 🚀 Currently working on **MERN Stack Projects**  
-- 🔧 Skilled in:**JavaScript, HTML, CSS, React.js**
 - Frameworks & Libraries:**React  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
-- Programming Languages:**JavaScript, c, c++, php, c#.**
-- 💡 Building projects like:**E-Commerce Sites Portfolio Websites.**
-- Tools & Platforms:**GIT, GitHub, VS Code, webstrom, Vercel, Netlify, mongoDB Campus, postman, linux.**
-
+- Programming Languages:**JavaScript, c, c++, php, c#. currently learning Java**
+- 💡 Building projects like:**CareerKhoj, E-Commerce Sites, Portfolio Websites.**
 
 
 ## 🌍 Connect with me:
@@ -44,6 +43,8 @@ Here’s a little about me:
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+  - 📫 Reach me at: **[gobind9800@gmail.com]** 
+
 
 
 ## 💻 Tech Stack:
