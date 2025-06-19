@@ -29,6 +29,7 @@ Here’s a little about me:
 - Frameworks & Libraries:**React  Node.js, MongoDB, Express.js, Next.js Tailwind CSS.**
 - Programming Languages:**JavaScript, c, c++, php, c#. currently learning Java**
 - 💡 Building projects like:**CareerKhoj, E-Commerce Sites, Portfolio Websites.**
+- 📫 Reach me at: **[gobind9800@gmail.com]** 
 
 
 ## 🌍 Connect with me:
@@ -42,7 +43,6 @@ Here’s a little about me:
   <a href="https://www.linkedin.com/in/balgobind422" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  - 📫 Reach me at: **[gobind9800@gmail.com]** 
 </p>
 
 ### 📊 GitHub Stats:
