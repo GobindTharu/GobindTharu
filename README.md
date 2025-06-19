@@ -70,6 +70,6 @@ Here’s a little about me:
 
 
 
-### 💬 Random Dev Quote
+### 💬 Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
