@@ -64,5 +64,10 @@ Here’s a little about me:
 
 ### 💻 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GobindTharu&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GobindTharu&theme=radical)
+
+
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
