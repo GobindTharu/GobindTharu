@@ -59,4 +59,10 @@ Here’s a little about me:
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GobindTharu&show_icons=true&theme=dark&hide=contribs)
+
+### 💻 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GobindTharu&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GobindTharu&theme=radical)
 
