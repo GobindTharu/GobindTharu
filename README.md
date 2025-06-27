@@ -19,7 +19,7 @@ Here’s a little about me:
 - 💬 Skills
 - **Frontend: React.js, Redux, Next.js, TypeScript, TailwindCSS,axios, React Query,Tanstack Query HTML/CSS, Javascript,** .
 - 🌱**Backend: Node.js,  Express.js, MongoDB, Cloudinary, JWT Auth, MongoDb Atlas** .
-- **Tools & Platforms: Git, GitHub,Gitlab, VS Code, Postman, webstrom, Vercel, netlify MongoDB Compass, Linux, React Dev Tools.**
+- **Tools & Platforms: Git,VS Code, Postman, webstrom, Vercel, netlify, Render, MongoDB Atlas, Linux(Ubuntu Basics), React Dev Tools.**
 
 
 - 
@@ -50,8 +50,6 @@ Here’s a little about me:
 
 ### 💻 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GobindTharu&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GobindTharu&theme=radical)
 
 
 
